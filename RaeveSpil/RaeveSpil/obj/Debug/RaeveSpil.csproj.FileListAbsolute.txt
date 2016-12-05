@@ -4,3 +4,9 @@ D:\Code\RaeveSpil\RaeveSpil\bin\Debug\RaeveSpil.pdb
 D:\Code\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.csprojResolveAssemblyReference.cache
 D:\Code\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.exe
 D:\Code\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.pdb
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\bin\Debug\RaeveSpil.exe.config
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.exe
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.pdb
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\bin\Debug\RaeveSpil.exe
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\bin\Debug\RaeveSpil.pdb
+D:\Code\RaeveSpil\raevespillet\RaeveSpil\RaeveSpil\obj\Debug\RaeveSpil.csprojResolveAssemblyReference.cache

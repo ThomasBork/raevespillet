@@ -12,6 +12,8 @@ namespace RaeveSpil
     {
         static void Main(string[] args)
         {
+            CardController.imagePath = Environment.CurrentDirectory + @"\images\";
+
             var lines = File.ReadAllLines(CardController.imagePath + "Cards.txt", Encoding.UTF7);
             var cards = CardController.ParseCards(lines);
             Console.WriteLine("Read " + cards.Count + " cards.");
