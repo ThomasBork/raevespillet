@@ -6,4 +6,4 @@ Run bin/Debug/RaeveSpil.exe
 
 Card images can be found in bin/Debug/images/Output/
 
-Print outs can be found in bin/Debug/images/Prints/
+Printouts can be found in bin/Debug/images/Prints/
