@@ -1,0 +1,256 @@
+Personlighed - Ræv
+Stjerneræven
+Er du allerede ræv, gives kortet til en anden spiller. 
+
+
+Personlighed - Ræv
+Stjerneræven
+Er du allerede ræv, gives kortet til en anden spiller. 
+
+
+Personlighed - Ræv
+Mikkel Ræv
+Brug: Vælg en ikke-ræv der skal drikke.
+
+
+Personlighed - Ræv
+Mikkel Ræv
+Brug: Vælg en ikke-ræv der skal drikke.
+
+
+Personlighed - Ræv
+Mikael Ræv
+Brug: Vælg en ræv der skal drikke.
+
+
+Personlighed - Ræv
+Mikael Ræv
+Brug: Vælg en ræv der skal drikke.
+
+
+Personlighed - Ræv
+Michael Fox
+Entré: Spil en handling fra bunken af brugte kort.
+
+
+Personlighed - Ræv
+Michael Fox
+Entré: Spil en handling fra bunken af brugte kort.
+
+
+Personlighed - Efteraber
+Efteraber
+Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+
+
+Personlighed - Efteraber
+Efteraber
+Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+
+
+Personlighed - Efteraber
+Efteraber
+Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+
+
+Personlighed
+Aben
+Alle efterabere efteraber dig.
+
+
+Personlighed
+Stråmanden
+Tag en tår i starten af din tur. Hver gang en spiller svarer på et af dine spørgsmål, må du give dette kort til den spiller.
+
+
+Personlighed
+Sniperen
+Hver gang du trækker et kort, må du uddele en tår.
+
+
+Personlighed
+Hunden
+Hver gang en anden spiller siger ordene tur eller ud, skal den spiller drikke.
+
+
+Personlighed
+Mads
+Entré: Vælg en ræv. Ræven skal ikke drikke i din tur og du skal ikke drikke i rævens tur.
+
+
+Personlighed
+Politikeren
+Brug: Bruges når en spiller skal til at drikke. Spilleren slipper for at drikke én tår. Giv tåren ud til en anden spiller.
+
+
+Personlighed - Ræv
+Den Gamle Ræv
+Brug: Skål med en ræv.
+
+
+Personlighed - Ræv
+Den Gamle Ræv
+Brug: Skål med en ræv.
+
+
+Personlighed - Ræv
+Den Larmende Ræv
+Brug: Alle ikke-ræve ved siden af dig skal drikke.
+
+
+Personlighed - Ræv
+Den Larmende Ræv
+Brug: Alle ikke-ræve ved siden af dig skal drikke.
+
+
+Personlighed
+Detektiven
+Brug: Nævn et navn på et kort og vælg en anden spiller. Spilleren skal vise et af sine kort på hånden. Hvis det er det nævnte kort trækker du et kort.
+
+
+Personlighed
+Jægeren
+Brug: Alle ræve ved siden af dig skal drikke.
+
+
+Personlighed
+Jægeren
+Brug: Alle ræve ved siden af dig skal drikke.
+
+
+Personlighed
+Dragen
+Entré: Alle skal drikke.
+Brug: Vælg en spiller. Spilleren skal drikke tre gange og overtager dragen.
+
+
+Personlighed
+Wannabe
+I starten af din tur skal du drikke, hvis du ikke er ræv. Hvis du er ræv skal du trække et kort.
+
+
+Handling
+Påbudt
+Udrensning
+Vælg en personlighed for alle spillere. Alle personligheder, der ikke er valgt, kasseres.
+Alle spillere vælger et kort på deres hånd og kasserer resten.
+
+
+Handling
+Hjernetransplantation
+Byt rundt på to personligheder.
+
+
+Handling
+Mord
+Kassér en personlighed efter eget valg.
+
+
+Handling
+Mord
+Kassér en personlighed efter eget valg.
+
+
+Handling
+Påbudt
+Forfordeling
+Vælg ræve eller ikke-ræve. Alle spillere af den valgte type trækker et kort. Alle andre skal drikke.
+
+
+Handling
+Masochist
+Drik fem gange.
+Træk to kort.
+
+
+Handling
+Fællesskål
+Alle drikker!
+
+
+Handling
+Fællesskål
+Alle drikker!
+
+
+Handling
+Påbudt
+Den Ægte Ræv
+Vælg en ræv. Alle andre ræve-personligheder kasseres.
+
+
+Handling
+Fængsel
+Spring over en spillers næste tur.
+
+
+Handling
+Påbudt
+Personlighedsspaltning
+Fordel dine personligheder blandt de andre spillere.
+
+
+Handling
+Bjørnetjeneste
+Overtag en personlighed fra en anden spiller. Spilleren trækker to kort.
+
+
+Handling
+Skovtur
+Alle ikke-ræve skal drikke.
+
+
+Handling
+Skovtur
+Alle ikke-ræve skal drikke.
+
+
+Handling
+Skovtur
+Alle ikke-ræve skal drikke.
+
+
+Handling
+Jagt
+Kassér en ræv.
+
+
+Handling
+Bøllebank
+Vælg en spiller der skal drikke tre gange.
+
+
+Handling
+Skulderklap
+Spillerne ved siden af dig skal drikke.
+
+
+Handling
+Skulderklap
+Spillerne ved siden af dig skal drikke.
+
+
+Handling
+Ledtog
+Skål med en anden spiller. I trækker begge et kort.
+
+
+Handling
+Ledtog
+Skål med en anden spiller. I trækker begge et kort.
+
+
+Handling
+Påbudt
+Menneskejagt
+Hvis du ikke er ræv skal du drikke. Hvis du er ræv skal den nærmeste ikke-ræv venstre om drikke.
+
+
+Handling
+Snyderi
+Tag et tilfældigt kort fra hånden af en ikke-ræv.
+
+
+Handling
+Snyderi
+Tag et tilfældigt kort fra hånden af en ikke-ræv.
