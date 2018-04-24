@@ -21,13 +21,10 @@ namespace RaeveSpil.Controller
             {
                 var card = new Card();
                 card.Type = lines[i++];
-                if (card.IsAction())
+                if (lines[i] == "Påbudt")
                 {
-                    if(lines[i] == "Påbudt")
-                    {
-                        card.IsMandatory = true;
-                        i++;
-                    }
+                    card.IsMandatory = true;
+                    i++;
                 }
                 card.Name = lines[i++];
                 while (i < lines.Length && !string.IsNullOrWhiteSpace(lines[i]))
@@ -49,7 +46,7 @@ namespace RaeveSpil.Controller
         {
             var type = card.Type.Split(' ')[0];
             var backgroundType = type;
-            if (card.IsAction() && card.IsMandatory)
+            if (card.IsMandatory)
             {
                 backgroundType = "Påbudt " + type;
             }

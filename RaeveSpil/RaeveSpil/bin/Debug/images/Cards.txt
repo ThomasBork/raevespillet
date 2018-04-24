@@ -39,23 +39,31 @@ Entré: Spil en handling fra bunken af brugte kort.
 
 
 Personlighed - Efteraber
+Påbudt
 Efteraber
-Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+Entré: Vælg en anden spiller at efterabe. Når den spiller drikker, skal du også drikke. 
+Hvis du også har Aben persongligheden, ignorer du den.
 
 
 Personlighed - Efteraber
+Påbudt
 Efteraber
-Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+Entré: Vælg en anden spiller at efterabe. Når den spiller drikker, skal du også drikke. 
+Hvis du også har Aben persongligheden, ignorer du den.
 
 
 Personlighed - Efteraber
+Påbudt
 Efteraber
-Entré: Vælg en spiller. Når den spiller drikker, skal du også drikke.
+Entré: Vælg en anden spiller at efterabe. Når den spiller drikker, skal du også drikke. 
+Hvis du også har Aben persongligheden, ignorer du den.
 
 
 Personlighed
+Påbudt
 Aben
-Alle efterabere efteraber dig.
+Alle Efteraber personligheder efteraber dig. 
+Når denne personglighed bliver lagt i bunken af brugte kort, må alle Efteraber personligheder vælge en ny spiller at efterabe.
 
 
 Personlighed
